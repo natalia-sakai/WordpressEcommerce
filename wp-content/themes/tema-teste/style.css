@@ -1,0 +1,263 @@
+* {
+    box-sizing: border-box;
+  
+  }
+  
+  body {
+    font-family: Verdana;
+    background-color: white;
+  }
+  .logo{
+    float: left;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.nome{
+    color: white;
+}
+/*Div Busca*/
+#busca
+{
+    float: left;
+    width: 500px;
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 120px;
+    background-color: white;
+    border-radius: 7px;
+}
+
+/*Entrada da busca*/
+input.busca
+{
+    float: left;
+    width: 450px;
+    height: 30px;
+    margin-left: 0;
+    border:1px solid white;
+    padding-left:10px;
+    border-radius: 7px;
+}
+
+
+/*Imagem da lupa*/
+#lupa
+{
+    margin-right: 0;
+    margin-top:4px;
+}
+
+/*Div Carrinho de compras*/
+#carrinho
+{
+    float: right;
+    width: 80px;
+    height: 100px;
+    padding-top: 94px;
+    margin-right: 350px
+}
+p.pequeno
+{
+    font-size: 10px;
+    color: white;
+    margin-top: 0;
+    text-align: center;
+}
+img.carrinho{
+    padding-left: 18px;
+}
+/*Cabecalho*/
+#cabecalho
+{
+    width: 100%; 
+    height: 260px;
+    background-color: #0118aa;
+}
+
+/*Configuracao dos links no menu do cabecalho*/
+a
+{
+    text-decoration: none;
+}
+a.cabecalho
+{
+    font-size: 20px;
+    padding-left: 2em;
+}
+
+a:link.cabecalho
+{
+    background-color:#4169e1;
+    padding:15px 20px;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:visited.cabecalho
+{
+    background-color:#4169e1;
+    padding:15px 20px;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover.cabecalho
+{
+    text-decoration: none;
+    background-color: #2d5fc4;
+    color:white;
+    text-align: center;
+}
+a:active.cabecalho
+{
+    text-decoration: underline;
+    background-color: #2d5fc4;
+    color:white;
+    text-align: center;
+}
+
+header{
+    height: 90px;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+h2.header{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding-bottom: 8px;
+    padding-top: 8px;
+    font-size: 2em;
+    line-height: 1.214;
+    letter-spacing: -1px;
+    color: #333333;
+    clear: both;
+    font-weight: 300;
+    margin: 0 0 0.5407911001em;
+}
+h2.header_minus{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding-bottom: 8px;
+    padding-top: 8px;
+    font-size:  2em;
+    line-height: 1.214;
+    letter-spacing: -1px;
+    color: #333333;
+    clear: both;
+    font-weight: 300;
+    margin: 0 0 0.5407911001em;
+}
+/*Div do Menu*/
+#menu
+{
+    float: left;
+    width: 100%; 
+    height: 55px;
+    background-color: #4169e1;
+	padding-top: 15px;
+}
+
+.wrap 
+{
+    width: 99%;
+    margin: 0 auto;
+}
+/*Div principal*/
+#principal
+{
+    width: 100%;
+    min-height: 600px;
+    background-color: white;
+}
+
+/*Conteudo*/
+#conteudo
+{
+    float: left;
+    width: 70%;
+    background-color: white;
+    padding-top: 10px;
+}
+
+#sidebar{
+}
+.sidebar_div{
+    float: right;
+    width: 25%;
+    background: white;
+}
+
+footer {
+    float: left;
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #4169e1;
+}
+p.footer{
+    color: white;
+    width: 100%;
+    padding-top: 5px;
+    height: 50px;
+}
+
+
+/*configurações no style do woocommerce*/
+.woocommerce .woocommerce-ordering select {
+    border-radius: 7px;
+    height: 25px;
+}
+.woocommerce.columns-3 ul.products li.product {
+    width: 30.75%;
+}
+.woocommerce ul.products li.product a img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 0 1em;
+    box-shadow: none;
+}
+.woocommerce-MyAccount-navigation{
+    width: 17.6470588235%;
+    float: left;
+    margin-right: 5.8823529412%;
+}
+.woocommerce-MyAccount-navigation ul li {
+    list-style: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    position: relative;
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link a {
+    text-decoration: none;
+    padding: 0.875em 0;
+    display: block;
+}
+.woocommerce img, .woocommerce-page img {
+    max-width: 25%;
+}
+.woocommerce .quantity .qty {
+    width: 3.631em;
+    text-align: center;
+    border-radius: 7px;
+    height: 25px;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: normal;
+    border-radius: 7px;
+    height: 30px;
+}
+
+/*tables*/
+table.cart th, table.cart td {
+    padding: 1.618em;
+}
+th {
+    background-color: #f8f8f8;
+}
+table th {
+    font-weight: 600;
+}
