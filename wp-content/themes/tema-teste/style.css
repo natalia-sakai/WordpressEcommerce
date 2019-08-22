@@ -32,7 +32,7 @@ input.busca
 {
     float: left;
     width: 450px;
-    height: 30px;
+    height: 32px;
     margin-left: 0;
     border:1px solid white;
     padding-left:10px;
@@ -217,10 +217,14 @@ p.footer{
     margin: 0 0 1em;
     box-shadow: none;
 }
+header.woocommerce-Address-title{
+    margin-top: 5px;
+}
 .woocommerce-MyAccount-navigation{
     width: 17.6470588235%;
     float: left;
-    margin-right: 5.8823529412%;
+    margin-right: 5px;
+    margin-left: -33px;
 }
 .woocommerce-MyAccount-navigation ul li {
     list-style: none;
@@ -248,7 +252,7 @@ p.footer{
     outline: 0;
     line-height: normal;
     border-radius: 7px;
-    height: 30px;
+    height: 40px;
 }
 
 /*tables*/
@@ -260,4 +264,48 @@ th {
 }
 table th {
     font-weight: 600;
+}
+.woocommerce-MyAccount-content{
+    float: left;
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.woocommerce table.shop_table {
+    border: 1px solid rgba(0,0,0,.1);
+    margin: 0 -1px 24px 0;
+    text-align: left;
+    width: 70%;
+    border-collapse: separate;
+    border-radius: 5px;
+}
+
+/*label*/
+input[type='text'], input[type='number'], input[type='email'], input[type='tel'], input[type='url'], input[type='password'], input[type='search'], textarea, .input-text {
+    padding: 0.6180469716em;
+    background-color: #f2f2f2;
+    color: #43454b;
+    border: 0;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    font-weight: normal;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.125);
+}
+
+fieldset {
+    padding: 1.618em;
+    padding-top: 1em;
+    border: 0;
+    margin: 0;
+    margin-bottom: 1.618em;
+    margin-top: 1.618em;
+    background-color: #fbfbfb;
+    border-radius: 7px;
+}
+fieldset legend {
+    background-color: #fbfbfb;
+    font-weight: 600;
+    padding: 0.6180469716em 1em;
+    margin-left: -1.6em;
+    border-radius: 7px;
 }
