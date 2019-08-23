@@ -1,0 +1,55 @@
+08-22-2019 @ 12:31:14 - Fetching address for "17010070" on Correios Webservices...
+08-22-2019 @ 12:31:15 - Address for "17010070" found successfully: stdClass Object
+(
+    [postcode] => 17010070
+    [address] => Rua Inconfidência
+    [city] => Bauru
+    [neighborhood] => Centro
+    [state] => SP
+    [last_query] => 2019-08-22 12:31:15
+)
+
+08-22-2019 @ 12:31:37 - Fetching address for "17010190" on Correios Webservices...
+08-22-2019 @ 12:31:38 - Address for "17010190" found successfully: stdClass Object
+(
+    [postcode] => 17010190
+    [address] => Rua Rio Branco
+    [city] => Bauru
+    [neighborhood] => Centro
+    [state] => SP
+    [last_query] => 2019-08-22 12:31:38
+)
+
+08-22-2019 @ 12:47:18 - Fetching address for "04236094" on Correios Webservices...
+08-22-2019 @ 12:47:19 - Address for "04236094" found successfully: stdClass Object
+(
+    [postcode] => 04236094
+    [address] => Rua 2 de Fevereiro
+    [city] => São Paulo
+    [neighborhood] => Cidade Nova Heliópolis
+    [state] => SP
+    [last_query] => 2019-08-22 12:47:19
+)
+
+08-22-2019 @ 13:24:05 - Fetching address for "17014450" on Correios Webservices...
+08-22-2019 @ 13:24:06 - Address for "17014450" found successfully: stdClass Object
+(
+    [postcode] => 17014450
+    [address] => Rua Treze de Maio
+    [city] => Bauru
+    [neighborhood] => Vila Noemy
+    [state] => SP
+    [last_query] => 2019-08-22 13:24:06
+)
+
+08-22-2019 @ 13:24:45 - Fetching address for "17010170" on Correios Webservices...
+08-22-2019 @ 13:24:46 - Address for "17010170" found successfully: stdClass Object
+(
+    [postcode] => 17010170
+    [address] => Rua Antônio Alves
+    [city] => Bauru
+    [neighborhood] => Centro
+    [state] => SP
+    [last_query] => 2019-08-22 13:24:46
+)
+

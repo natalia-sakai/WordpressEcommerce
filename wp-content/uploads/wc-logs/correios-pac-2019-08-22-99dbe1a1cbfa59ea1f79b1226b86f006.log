@@ -1,0 +1,1786 @@
+08-22-2019 @ 11:36:01 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:36:01 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:36:01 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 11:36:12 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:36:12 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:36:12 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 11:36:13 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:36:13 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:36:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 11:41:13 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:41:13 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:41:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 11:42:40 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:42:40 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:42:41 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 11:43:19 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:43:19 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:43:19 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 11:43:21 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 11:43:21 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=20040007&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 11:43:21 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:29:03 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:29:03 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:29:04 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:29:04 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:29:04 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:29:04 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:29:07 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:29:07 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:29:08 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:29:16 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:29:16 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:29:16 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:13 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:13 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:14 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:14 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:14 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:15 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:16 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:16 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:16 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:16 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:16 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010070&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:16 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:30 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:30 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:30 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:30 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:30 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:31 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:34 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:34 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:35 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:35 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:35 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:35 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:39 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:39 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:39 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:39 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:48 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:48 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:48 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:31:48 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:31:48 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:31:48 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:26 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:26 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:26 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:26 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:26 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:26 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:26 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:27 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:44 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:44 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:45 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:46 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:46 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:47 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:47 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:47 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:47 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:47 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:47 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:47 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:32:47 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:32:47 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:32:47 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:37:10 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:37:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:37:10 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:37:14 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:37:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:37:14 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:37:14 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:37:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:37:17 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:45:30 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:45:30 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:45:31 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:45:32 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:45:32 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:45:32 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:45:32 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:45:32 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:45:32 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:45:32 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:45:32 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:45:34 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:45:34 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:45:34 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:45:34 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:47:02 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:47:02 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:47:02 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:47:02 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:47:02 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=17010190&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:47:02 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:47:18 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:47:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=04236094&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:47:18 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:47:18 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:47:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=04236094&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:47:18 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:47:20 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:47:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=04236094&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:47:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
+08-22-2019 @ 12:47:20 - Weight and cubage of the order: Array
+(
+    [weight] => 10
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+08-22-2019 @ 12:47:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=04236094&sCepOrigem=17490000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=10&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=20&sCdAvisoRecebimento=N&StrRetorno=xml
+08-22-2019 @ 12:47:21 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -2
+            [MsgErro] => CEP de origem invalido.
+        )
+
+)
+
