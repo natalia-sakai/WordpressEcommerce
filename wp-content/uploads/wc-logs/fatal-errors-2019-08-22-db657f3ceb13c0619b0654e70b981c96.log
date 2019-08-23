@@ -22,3 +22,119 @@ Stack trace:
 #3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('80240210', 'SP')
 #4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
 
+2019-08-22T14:24:18+00:00 CRITICAL Uncaught Exception: Invalid data store. in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\data-stores\class-wc-shipping-zone-data-store.php:102
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Shipping_Zone_Data_Store->read(Object(WC_Shipping_Zone))
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-shipping-zone.php(62): WC_Data_Store->read(Object(WC_Shipping_Zone))
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(2653): WC_Shipping_Zone->__construct('5')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): WC_AJAX::shipping_zones_save_changes('')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(173): do_action('wp_ajax_woocomm...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\data-stores\class-wc-shipping-zone-data-store.php on line 102
+
+2019-08-22T14:46:22+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('20010000')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('20010000')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('20010000', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:46:24+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('20010000')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('20010000')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('20010000', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:46:30+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('20010000')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('20010000')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('20010000', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:46:38+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('20010120')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('20010120')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('20010120', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:46:40+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('20010120')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('20010120')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('20010120', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:47:12+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('80010010')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('80010010')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('80010010', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:49:02+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:49:03+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:49:05+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:49:08+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:54:11+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:54:31+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
+2019-08-22T14:54:33+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(203): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-autofill-addresses.php(109): WC_Correios_Autofill_Addresses::fetch_address('59950971')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Helpers.php(88): WC_Correios_Autofill_Addresses::get_address('59950971')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(125): CFPP\Helpers::isPostcodeFromState('59950971', 'SP')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-correios-calculo-de-frete-na-pagina-do-produto\src\Shipping\ShippingZone.php(39): CFPP\Shipping\ShippingZone->che in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-correios\includes\class-wc-correios-soap-client.php on line 17
+
