@@ -2,31 +2,43 @@
     box-sizing: border-box;
   
   }
-  
+  @media (min-width: 768px){
+      .menu{
+
+      }
+  }
+
   body {
     font-family: Verdana;
     background-color: white;
   }
+
+  a {
+    text-decoration: none;
+    }
+    a:-webkit-any-link {
+        cursor: pointer;
+    }
+
   .logo{
     float: left;
     padding-left: 30px;
     padding-top: 50px;
 }
 .nome{
-    color: white;
+    color: #333333;
 }
 /*Div Busca*/
-#busca
+.busca
 {
     float: left;
-    width: 500px;
-    height: 35px;
     margin-left: 35px;
-    margin-top: 120px;
-    background-color: white;
-    border-radius: 7px;
 }
-
+#searchform{
+    background-color: #f2f2f2;
+    height: 35px;
+    margin-top: 113px;
+}
 /*Entrada da busca*/
 input.busca
 {
@@ -43,23 +55,22 @@ input.busca
 /*Imagem da lupa*/
 #lupa
 {
-    margin-right: 0;
-    margin-top:4px;
+    padding-right: 5px;
+    padding-top: 5px;
 }
 
 /*Div Carrinho de compras*/
-#carrinho
-{
-    float: right;
+.carrinho {
+    float: left;
     width: 80px;
     height: 100px;
     padding-top: 94px;
-    margin-right: 350px
+    margin-left: 40px;
 }
 p.pequeno
 {
     font-size: 10px;
-    color: white;
+    color: #333333;
     margin-top: 0;
     text-align: center;
 }
@@ -71,9 +82,32 @@ img.carrinho{
 {
     width: 100%; 
     height: 260px;
-    background-color: #0118aa;
+    background-color:white;
 }
-
+ul.cabecalho{
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    margin-left: -30px;
+}
+li.cabecalho{
+    position: relative;
+    display: inline-block;
+    text-align: left;
+}
+button.menu {
+    cursor: pointer;
+    text-align: left;
+    float: right;
+    position: relative;
+    border: 2px solid transparent;
+    box-shadow: none;
+    border-radius: 2px;
+    background-image: none;
+    padding: 0.6180469716em 0.875em 0.6180469716em 2.617924em;
+    font-size: 0.875em;
+    max-width: 120px;
+}
 /*Configuracao dos links no menu do cabecalho*/
 a
 {
@@ -87,18 +121,16 @@ a.cabecalho
 
 a:link.cabecalho
 {
-    background-color:#4169e1;
     padding:15px 20px;
-    color:white;
+    color: #333333;
     text-decoration: none;
     text-align: center;
 }
 
 a:visited.cabecalho
 {
-    background-color:#4169e1;
     padding:15px 20px;
-    color:white;
+    color: #333333;
     text-decoration: none;
     text-align: center;
 }
@@ -106,30 +138,23 @@ a:visited.cabecalho
 a:hover.cabecalho
 {
     text-decoration: none;
-    background-color: #2d5fc4;
-    color:white;
+    color: #333333;
     text-align: center;
 }
 a:active.cabecalho
 {
-    text-decoration: underline;
-    background-color: #2d5fc4;
-    color:white;
+
+    color: #333333;
     text-align: center;
 }
 
 header{
+    width: 100%;
     height: 90px;
-    margin-top: 50px;
-    padding-top: 10px;
 }
 h2.header{
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-    padding-bottom: 8px;
-    padding-top: 8px;
     font-size: 2em;
     line-height: 1.214;
-    letter-spacing: -1px;
     color: #333333;
     clear: both;
     font-weight: 300;
@@ -148,13 +173,16 @@ h2.header_minus{
     margin: 0 0 0.5407911001em;
 }
 /*Div do Menu*/
-#menu
+.div_menu
 {
     float: left;
     width: 100%; 
     height: 55px;
-    background-color: #4169e1;
-	padding-top: 15px;
+    background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.menu{
+    float: left;
 }
 
 .wrap 
@@ -166,7 +194,7 @@ h2.header_minus{
 #principal
 {
     width: 100%;
-    min-height: 600px;
+    min-height: 500px;
     background-color: white;
 }
 
@@ -180,6 +208,7 @@ h2.header_minus{
 }
 
 #sidebar{
+    color:#333333;
 }
 .sidebar_div{
     float: right;
@@ -187,18 +216,26 @@ h2.header_minus{
     background: white;
 }
 
+h4.categoria{
+    color:#333333;
+    text-decoration: none;
+}
+
+a.categoria{
+    color:#333333;
+    text-decoration: none;
+}
+
 footer {
     float: left;
     width: 100%;
-    height: 50px;
+    height: 60px;
     margin-top: 10px;
-    background-color: #4169e1;
 }
 p.footer{
-    color: white;
+    color: #333333;
     width: 100%;
     padding-top: 5px;
-    height: 50px;
 }
 
 
@@ -254,6 +291,9 @@ header.woocommerce-Address-title{
     border-radius: 7px;
     height: 40px;
 }
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h2 {
+    color: #333333;
+}
 
 /*tables*/
 table.cart th, table.cart td {
@@ -289,7 +329,6 @@ input[type='text'], input[type='number'], input[type='email'], input[type='tel']
     -webkit-appearance: none;
     box-sizing: border-box;
     font-weight: normal;
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.125);
 }
 
 fieldset {

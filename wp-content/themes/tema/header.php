@@ -18,21 +18,20 @@
     <div id="busca">
       <form id="searchform" method="get" action="<?php echo home_url('/'); ?>">
         <input type="text" name="s" placeholder="Digite aqui o que deseja buscar" class="busca" >
-      <input type="image" src="http://localhost/wordpress/wp-content/uploads/2019/08/lupa.jpg" id="lupa" onclick="form.submit();">
+      <input type="image" src="https://codewisebr.com/natalia/wp-content/uploads/2019/08/lupa-1.jpg" id="lupa" onclick="form.submit();">
       </form>
     </div>
 
     <!--Carrinho de compras-->
     <div id="carrinho">
-      <img src="http://localhost/wordpress/wp-content/uploads/2019/08/carrinho.png" width="35" class="carrinho">
+      <img src="https://codewisebr.com/natalia/wp-content/uploads/2019/08/carrinho-1.png" width="35" class="carrinho">
       <p class="pequeno">Carrinho de compras</p>
     </div>
   </div>
   <div id="menu">
-    <a class="cabecalho" href="http://localhost/wordpress">Inicio</a>
-    <a class="cabecalho" href="http://localhost/wordpress/loja/">Loja</a>
-    <a class="cabecalho" href="http://localhost/wordpress/carrinho/">Carrinho</a>
-    <a class="cabecalho" href="http://localhost/wordpress/minha-conta/">Minha conta</a>
+    <a class="cabecalho" href="https://codewisebr.com/natalia/">Inicio</a>
+    <a class="cabecalho" href="https://codewisebr.com/natalia//loja/">Loja</a>
+    <a class="cabecalho" href="https://codewisebr.com/natalia/carrinho/">Carrinho</a>
+    <a class="cabecalho" href="https://codewisebr.com/natalia/minha-conta/">Minha conta</a>
   </div>
-  
  

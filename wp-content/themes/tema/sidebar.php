@@ -12,7 +12,7 @@
         $id = $product_cat -> term_id;
         $count = $product_cat -> count;
         ?>
-            <h4><a href="<?php echo esc_url('http://localhost/wordpress/categoria-produto/'.$slug); ?>" class="par"> <?php echo $nome; ?> (<?php echo esc_attr($count);?>) </a></h4>
+            <h4><a href="<?php echo esc_url('https://codewisebr.com/natalia/categoria-produto/'.$slug); ?>" class="par"> <?php echo $nome; ?> (<?php echo esc_attr($count);?>) </a></h4>
         <?php
     }
 ?>

@@ -1,0 +1,11 @@
+08-23-2019 @ 10:39:29 - Fetching address for "04884370" on Correios Webservices...
+08-23-2019 @ 10:39:30 - Address for "04884370" found successfully: stdClass Object
+(
+    [postcode] => 04884370
+    [address] => Rua Piratininga
+    [city] => São Paulo
+    [neighborhood] => Jardim Papai Noel
+    [state] => SP
+    [last_query] => 2019-08-23 10:39:30
+)
+
