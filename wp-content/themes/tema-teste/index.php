@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-<main class="wrap">
 <div id="principal">
 <header>
     <h2 class="header"><?php the_title();?></h2>
@@ -13,5 +12,4 @@
 </section> <!-- conteudo -->
 <?php get_sidebar(); ?>
 </div> <!-- principal -->
-</main>
 <?php get_footer(); ?>

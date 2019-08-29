@@ -2,11 +2,6 @@
     box-sizing: border-box;
   
   }
-  @media (min-width: 768px){
-      .menu{
-
-      }
-  }
 
   body {
     font-family: Verdana;
@@ -20,24 +15,27 @@
         cursor: pointer;
     }
 
-  .logo{
+  .logo
     float: left;
-    padding-left: 30px;
-    padding-top: 50px;
+    padding-left: 10px;
+    padding-top: 55px;
+    margin-bottom: 20px;
 }
-.nome{
+h1.nome{
     color: #333333;
+}
+a.nome{
+    text-decoration: none;
 }
 /*Div Busca*/
 .busca
 {
     float: left;
-    margin-left: 35px;
+    margin-left: 27px;
 }
 #searchform{
-    background-color: #f2f2f2;
-    height: 35px;
-    margin-top: 113px;
+    height: 105px;
+    display:none;
 }
 /*Entrada da busca*/
 input.busca
@@ -56,33 +54,31 @@ input.busca
 #lupa
 {
     padding-right: 5px;
-    padding-top: 5px;
+    padding-top: 26px;
+    padding-bottom: 5px;
 }
 
 /*Div Carrinho de compras*/
 .carrinho {
     float: left;
-    width: 80px;
-    height: 100px;
-    padding-top: 94px;
-    margin-left: 40px;
-}
-p.pequeno
-{
-    font-size: 10px;
-    color: #333333;
-    margin-top: 0;
-    text-align: center;
+    width: 60px;
+    height: 73px;
+    padding-top: 20px
 }
 img.carrinho{
+    margin-left: 5px;
+    width: 46px;
+    height: 53px;
+    padding-top: 24px;
     padding-left: 18px;
+    margin-top: -10px;
 }
+
 /*Cabecalho*/
 #cabecalho
 {
     width: 100%; 
-    height: 260px;
-    background-color:white;
+    height: 200px;
 }
 ul.cabecalho{
     position: relative;
@@ -95,19 +91,6 @@ li.cabecalho{
     display: inline-block;
     text-align: left;
 }
-button.menu {
-    cursor: pointer;
-    text-align: left;
-    float: right;
-    position: relative;
-    border: 2px solid transparent;
-    box-shadow: none;
-    border-radius: 2px;
-    background-image: none;
-    padding: 0.6180469716em 0.875em 0.6180469716em 2.617924em;
-    font-size: 0.875em;
-    max-width: 120px;
-}
 /*Configuracao dos links no menu do cabecalho*/
 a
 {
@@ -115,13 +98,11 @@ a
 }
 a.cabecalho
 {
-    font-size: 20px;
-    padding-left: 2em;
+    font-size: 17px;
 }
 
 a:link.cabecalho
 {
-    padding:15px 20px;
     color: #333333;
     text-decoration: none;
     text-align: center;
@@ -129,7 +110,6 @@ a:link.cabecalho
 
 a:visited.cabecalho
 {
-    padding:15px 20px;
     color: #333333;
     text-decoration: none;
     text-align: center;
@@ -149,8 +129,10 @@ a:active.cabecalho
 }
 
 header{
+    float: left;
     width: 100%;
-    height: 90px;
+    height: 65px;
+    margin-top: 40px;
 }
 h2.header{
     font-size: 2em;
@@ -178,31 +160,26 @@ h2.header_minus{
     float: left;
     width: 100%; 
     height: 55px;
-    background-color: white;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .menu{
-    float: left;
 }
 
-.wrap 
-{
-    width: 99%;
-    margin: 0 auto;
-}
 /*Div principal*/
 #principal
 {
-    width: 100%;
+    float: left;
+    width: 90%;
+    margin-left: 28px;
     min-height: 500px;
-    background-color: white;
+    background-color: white
 }
 
 /*Conteudo*/
 #conteudo
 {
     float: left;
-    width: 70%;
+    width: 100%;
     background-color: white;
     padding-top: 10px;
 }
@@ -211,14 +188,26 @@ h2.header_minus{
     color:#333333;
 }
 .sidebar_div{
-    float: right;
-    width: 25%;
-    background: white;
+    float: left;
+    width: 15%;
+    margin-left: 20px;
 }
-
+h2.sidebar{
+    font-size: 2em;
+    line-height: 1.214;
+    color: #333;
+    clear: both;
+    font-weight: 300;
+    margin: 0 0 .5407911001em;
+}
 h4.categoria{
-    color:#333333;
-    text-decoration: none;
+    font-size: 1em;
+    line-height: 1.214;
+    color: #333;
+    margin-left: 15px;
+    clear: both;
+    font-weight: 300;
+    margin: 0 0 .5407911001em;
 }
 
 a.categoria{
@@ -256,12 +245,17 @@ p.footer{
 }
 header.woocommerce-Address-title{
     margin-top: 5px;
+    width: 400px;
+}
+address {
+    margin-bottom: 1rem;
+    font-style: normal;
+    line-height: inherit;
+    width: 400px;
 }
 .woocommerce-MyAccount-navigation{
-    width: 17.6470588235%;
-    float: left;
+    display: block;
     margin-right: 5px;
-    margin-left: -33px;
 }
 .woocommerce-MyAccount-navigation ul li {
     list-style: none;
@@ -274,7 +268,7 @@ header.woocommerce-Address-title{
     display: block;
 }
 .woocommerce img, .woocommerce-page img {
-    max-width: 25%;
+    max-width: 50%;
 }
 .woocommerce .quantity .qty {
     width: 3.631em;
@@ -307,7 +301,7 @@ table th {
 }
 .woocommerce-MyAccount-content{
     float: left;
-    width: 80%;
+    width: 100%;
     margin-top: 30px;
     margin-left: 45px;
 }
@@ -347,4 +341,162 @@ fieldset legend {
     padding: 0.6180469716em 1em;
     margin-left: -1.6em;
     border-radius: 7px;
+}
+
+/*esconde quando tiver com a tela menor*/
+.carrinho img.carrinho{
+    display:none;
+}
+h3.nome{
+    display:none;
+}
+.sidebar_div{
+    display: none;
+}
+/* so aparece se a tela for menor */
+#searchform2{
+    display: block;
+    padding-left: 20px;
+}
+/* PC*/
+@media (min-width: 992px)
+{
+    
+    .sidebar_div{
+        display: block;
+    }
+    .carrinho img.carrinho{
+        display:block;
+    }
+    #searchform{
+        display:block;
+    }
+    #searchform2{
+        display: none;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        display: -ms-flexbox!important;
+        display: flex!important;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+        margin-top: 40px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0rem;
+        padding-left: 0rem;
+    }
+    a.cabecalho
+    {
+        font-size: 20px;
+    }
+    
+}
+/* tablet */
+@media (min-width: 768px)
+{
+    .div_menu::before, .div_menu::after {
+    content: '';
+    display: table;
+    }
+    .main_navegation::before, .main_navegation::after {
+    content: '';
+    display: table;
+    }
+    .menu::before, .menu::after {
+    content: '';
+    display: table;
+    }
+    .menu-toggle,.main-navigation.toggled .main-navigation.toggled div.menu {
+    display: none;
+    }
+    .main-navigation div.menu {
+    display: block;
+    }
+    .main-navigation ul.menu, .main-navigation ul.nav-menu {
+    max-height: none;
+    overflow: visible;
+    margin-left: -1em;
+    -webkit-transition: none;
+    transition: none;
+    }
+    .main-navigation ul{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: block;
+    }
+    .main-navigation {
+    width: 73.9130434783%;
+    float: left;
+    margin-right: 4.347826087%;
+    clear: both;
+    display: block;
+    }
+    .main-navigation .menu {
+        clear: both;
+    }
+    
+    .woocommerce-MyAccount-navigation {
+        width: 17.6470588235%;
+        float: left;
+        margin-right: 5.8823529412%;
+    }
+    .conteudo{
+        width: 80%;
+    }
+    header.woocommerce-Address-title{
+        margin-top: 5px;
+        width: 270px;
+        height: 110px;
+    }
+    address {
+        width: 200px;
+    }
+    .woocommerce-MyAccount-content {
+        float: left;
+        width: 70%;
+        margin-top: 30px;
+        margin-left: 45px;
+    }
+    .mt-2, .my-2 {
+        margin-top: 3.5rem!important;
+    }
+}
+
+/*botão*/
+button.menu-toggle {
+    cursor: pointer;
+    text-align: left;
+    float: right;
+    position: relative;
+    border: 2px solid transparent;
+    box-shadow: none;
+    border-radius: 2px;
+    background-image: none;
+    padding: 0.6180469716em 0.875em 0.6180469716em 2.617924em;
+    font-size: 0.875em;
+    max-width: 120px;
+    background-color: #ffffff;
+}
+button.menu-toggle, button.menu-toggle:hover {
+    border-color: #333333;
+}
+
+.navbar-toggler {
+    padding: 0.25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    margin-top: 40px;
+}
+
+@media (min-width: 576px){
+    .form-inline .form-control {
+        display: inline-block;
+        width: auto;
+        vertical-align: middle;
+        margin-top: -24px;
+    }
 }
