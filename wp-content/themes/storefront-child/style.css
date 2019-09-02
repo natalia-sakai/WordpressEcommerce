@@ -1,0 +1,97 @@
+/*
+Theme Name: Storefront Child
+Description: My magnificent child theme
+Author: Natalia
+Version: 1.0
+Template: storefront
+*/
+@import url('../storefront/style.css');
+
+.site-header {
+    background-color: white;
+    padding-top: 1.618em;
+    padding-bottom: 1.618em;
+    color: #9aa0a7;
+    background-position: center center;
+    position: relative;
+    z-index: 999;
+    border-bottom: 1px solid transparent;
+}
+.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-content.loaded, .page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-title.loaded {
+    opacity: 1;
+    font-size: 5.617924em;
+    line-height: 2.214;
+    letter-spacing: 27px;
+}
+.site-search .widget_product_search form input[type=search], .site-search .widget_product_search form input[type=text] {
+    padding-left: 2.617924em;
+    border-radius: 5px;
+}
+
+ul.products li.product .button, ul.products .wc-block-grid__product .button, .wc-block-grid__products li.product .button, .wc-block-grid__products .wc-block-grid__product .button {
+    margin-bottom: 0.236em;
+    border-radius: 5px;
+}
+.storefront-sorting select {
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+}
+.woocommerce-result-count {
+    float: left;
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 4px;
+    padding: 0.327em 0;
+}
+
+h1, .alpha .product_title .entry-title {
+    font-size: 3.617924em;
+    line-height: 0.714;
+    letter-spacing: 4px;
+    font-weight: 300;
+}
+.added_to_cart.alt, .added_to_cart, .widget a.button.checkout {
+    background-color: #333333;
+    border-color: #333333;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+table.cart td.actions input {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    border-radius: 5px;
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
+    background-color: #eeeeee;
+    border-color: #eeeeee;
+    color: #333333;
+    border-radius: 5px;
+    margin-left: 3px;
+}
+
+table.cart td.product-quantity .qty {
+    padding: 0.326em;
+    width: 3.706325903em;
+    border-radius: 5px;
+}
+
+.site-info {
+    padding: 2.617924em 0;
+    text-align: center;
+}
+table:not( .has-background ) tbody td {
+    background-color: white;
+}
+table:not( .has-background ) tbody tr:nth-child(2n) td, fieldset, fieldset legend {
+    background-color: white;
+}
+
+.form-row input, .form-row textarea, .form-row select {
+    width: 100%;
+    border-radius: 5px;
+}
+
